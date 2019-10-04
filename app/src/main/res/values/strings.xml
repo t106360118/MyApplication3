@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="inputnmae">請輸入玩家姓名</string>
+    <string name="inputnmaestart">請輸入姓名以開始遊戲</string>
+    <string name="cut">剪刀</string>
+    <string name="rock">石頭</string>
+    <string name="row">布</string>
+    <string name="guess">猜</string>
+    <string name="name">名子</string>
+    <string name="winner">勝利者</string>
+    <string name="iguess">我方出拳</string>
+    <string name="cguess">電腦出拳</string>
+
+
+</resources>
